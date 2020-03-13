@@ -1,0 +1,243 @@
+running...
+
+RUN 1
+MPI sum across 1 processes - integral = 9996401.298999
+WALL CLOCK Time (whole code): 0.647073 seconds
+WALL CLOCK Time (loop only):  0.647061 seconds
+---
+
+RUN 1
+MPI sum across 2 processes - integral = 9996401.298999
+WALL CLOCK Time (whole code): 0.334201 seconds
+WALL CLOCK Time (loop only):  0.330934 seconds
+---
+
+RUN 1
+MPI sum across 3 processes - integral = 9996401.299000
+WALL CLOCK Time (whole code): 0.238434 seconds
+WALL CLOCK Time (loop only):  0.235827 seconds
+---
+
+RUN 1
+MPI sum across 4 processes - integral = 9996401.299000
+WALL CLOCK Time (whole code): 0.194838 seconds
+WALL CLOCK Time (loop only):  0.189360 seconds
+---
+
+RUN 1
+MPI sum across 5 processes - integral = 9996401.299000
+WALL CLOCK Time (whole code): 0.164650 seconds
+WALL CLOCK Time (loop only):  0.129795 seconds
+---
+
+RUN 1
+MPI sum across 6 processes - integral = 9996401.299000
+WALL CLOCK Time (whole code): 0.142177 seconds
+WALL CLOCK Time (loop only):  0.112345 seconds
+---
+
+RUN 1
+MPI sum across 7 processes - integral = 9996401.299000
+WALL CLOCK Time (whole code): 0.140541 seconds
+WALL CLOCK Time (loop only):  0.127977 seconds
+---
+
+RUN 1
+MPI sum across 8 processes - integral = 9996401.299000
+WALL CLOCK Time (whole code): 0.111373 seconds
+WALL CLOCK Time (loop only):  0.108876 seconds
+---
+
+RUN 1
+MPI sum across 9 processes - integral = 9996401.299000
+WALL CLOCK Time (whole code): 0.100446 seconds
+WALL CLOCK Time (loop only):  0.100391 seconds
+---
+
+RUN 1
+MPI sum across 10 processes - integral = 9996401.299000
+WALL CLOCK Time (whole code): 0.091873 seconds
+WALL CLOCK Time (loop only):  0.086723 seconds
+---
+
+RUN 1
+MPI sum across 11 processes - integral = 9996401.299000
+WALL CLOCK Time (whole code): 0.083935 seconds
+WALL CLOCK Time (loop only):  0.079199 seconds
+---
+
+RUN 1
+MPI sum across 12 processes - integral = 9996401.299000
+WALL CLOCK Time (whole code): 0.076483 seconds
+WALL CLOCK Time (loop only):  0.076198 seconds
+---
+
+RUN 1
+MPI sum across 13 processes - integral = 9996401.299000
+WALL CLOCK Time (whole code): 0.073456 seconds
+WALL CLOCK Time (loop only):  0.065560 seconds
+---
+
+RUN 1
+MPI sum across 14 processes - integral = 9996401.299000
+WALL CLOCK Time (whole code): 0.066987 seconds
+WALL CLOCK Time (loop only):  0.064505 seconds
+---
+
+RUN 1
+MPI sum across 15 processes - integral = 9996401.299000
+WALL CLOCK Time (whole code): 0.062410 seconds
+WALL CLOCK Time (loop only):  0.060136 seconds
+---
+
+RUN 1
+MPI sum across 16 processes - integral = 9996401.299000
+WALL CLOCK Time (whole code): 0.075871 seconds
+WALL CLOCK Time (loop only):  0.075794 seconds
+---
+
+RUN 1
+MPI sum across 17 processes - integral = 9996401.299000
+WALL CLOCK Time (whole code): 0.069170 seconds
+WALL CLOCK Time (loop only):  0.069096 seconds
+---
+
+RUN 1
+MPI sum across 18 processes - integral = 9996401.299000
+WALL CLOCK Time (whole code): 0.065597 seconds
+WALL CLOCK Time (loop only):  0.065521 seconds
+---
+
+RUN 1
+MPI sum across 19 processes - integral = 9996401.299000
+WALL CLOCK Time (whole code): 0.063412 seconds
+WALL CLOCK Time (loop only):  0.052330 seconds
+---
+
+RUN 1
+MPI sum across 20 processes - integral = 9996401.299000
+WALL CLOCK Time (whole code): 0.059890 seconds
+WALL CLOCK Time (loop only):  0.059810 seconds
+---
+
+RUN 1
+MPI sum across 21 processes - integral = 9996401.299000
+WALL CLOCK Time (whole code): 0.058888 seconds
+WALL CLOCK Time (loop only):  0.056168 seconds
+---
+
+RUN 1
+MPI sum across 22 processes - integral = 9996401.299000
+WALL CLOCK Time (whole code): 0.053977 seconds
+WALL CLOCK Time (loop only):  0.053898 seconds
+---
+
+RUN 1
+MPI sum across 23 processes - integral = 9996401.299000
+WALL CLOCK Time (whole code): 0.051885 seconds
+WALL CLOCK Time (loop only):  0.051804 seconds
+---
+
+RUN 1
+MPI sum across 24 processes - integral = 9996401.299000
+WALL CLOCK Time (whole code): 0.049538 seconds
+WALL CLOCK Time (loop only):  0.048944 seconds
+---
+
+RUN 1
+MPI sum across 25 processes - integral = 9996401.299000
+WALL CLOCK Time (whole code): 0.048291 seconds
+WALL CLOCK Time (loop only):  0.048207 seconds
+---
+
+RUN 1
+MPI sum across 26 processes - integral = 9996401.299000
+WALL CLOCK Time (whole code): 0.047119 seconds
+WALL CLOCK Time (loop only):  0.046602 seconds
+---
+
+RUN 1
+MPI sum across 27 processes - integral = 9996401.299000
+WALL CLOCK Time (whole code): 0.047682 seconds
+WALL CLOCK Time (loop only):  0.042727 seconds
+---
+
+RUN 1
+MPI sum across 28 processes - integral = 9996401.299000
+WALL CLOCK Time (whole code): 0.043543 seconds
+WALL CLOCK Time (loop only):  0.043139 seconds
+---
+
+RUN 1
+MPI sum across 29 processes - integral = 9996401.299000
+WALL CLOCK Time (whole code): 0.043768 seconds
+WALL CLOCK Time (loop only):  0.043672 seconds
+---
+
+RUN 1
+MPI sum across 30 processes - integral = 9996401.299000
+WALL CLOCK Time (whole code): 0.041253 seconds
+WALL CLOCK Time (loop only):  0.038763 seconds
+---
+
+RUN 1
+MPI sum across 31 processes - integral = 9996401.299000
+WALL CLOCK Time (whole code): 0.040115 seconds
+WALL CLOCK Time (loop only):  0.038207 seconds
+---
+
+RUN 1
+MPI sum across 32 processes - integral = 9996401.299000
+WALL CLOCK Time (whole code): 0.038315 seconds
+WALL CLOCK Time (loop only):  0.036637 seconds
+---
+
+RUN 1
+MPI sum across 33 processes - integral = 9996401.299000
+WALL CLOCK Time (whole code): 0.040354 seconds
+WALL CLOCK Time (loop only):  0.035754 seconds
+---
+
+RUN 1
+MPI sum across 34 processes - integral = 9996401.299000
+WALL CLOCK Time (whole code): 0.036518 seconds
+WALL CLOCK Time (loop only):  0.036427 seconds
+---
+
+RUN 1
+MPI sum across 35 processes - integral = 9996401.299000
+WALL CLOCK Time (whole code): 0.038715 seconds
+WALL CLOCK Time (loop only):  0.032198 seconds
+---
+
+RUN 1
+MPI sum across 36 processes - integral = 9996401.299000
+WALL CLOCK Time (whole code): 0.038284 seconds
+WALL CLOCK Time (loop only):  0.027532 seconds
+---
+
+RUN 1
+MPI sum across 37 processes - integral = 9996401.299000
+WALL CLOCK Time (whole code): 0.034142 seconds
+WALL CLOCK Time (loop only):  0.034044 seconds
+---
+
+RUN 1
+MPI sum across 38 processes - integral = 9996401.299000
+WALL CLOCK Time (whole code): 0.034245 seconds
+WALL CLOCK Time (loop only):  0.032742 seconds
+---
+
+RUN 1
+MPI sum across 39 processes - integral = 9996401.299000
+WALL CLOCK Time (whole code): 0.036753 seconds
+WALL CLOCK Time (loop only):  0.031051 seconds
+---
+
+RUN 1
+MPI sum across 40 processes - integral = 9996401.299000
+WALL CLOCK Time (whole code): 0.033257 seconds
+WALL CLOCK Time (loop only):  0.026205 seconds
+---
+
+ALL DONE

@@ -1,0 +1,30 @@
+{
+  "name": "HPC-Plot",
+  "version": "1.0.0",
+  "description": "a plotting program using plotly",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "npx babel-node",
+    "build": "npx babel-node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bbaayezi/HPC-Plot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bbaayezi/HPC-Plot/issues"
+  },
+  "homepage": "https://github.com/bbaayezi/HPC-Plot#readme",
+  "devDependencies": {
+    "@babel/core": "^7.8.7",
+    "@babel/node": "^7.8.7"
+  },
+  "dependencies": {
+    "@plotex/render-image": "^1.0.2",
+    "plot": "^1.0.2"
+  }
+}
